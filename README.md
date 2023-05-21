@@ -1,4 +1,13 @@
 ### Hi there 👋
+## I'm Peretiatko Ihor
+
+- 🤖 Test Automation Engineer
+- 📈 Performance Test Engineer 
+- 🐞 QA Engineer
+
+My [Linkedin](https://www.linkedin.com/in/igorperetyatko/) can tell more about me 
+
+I am enthusiastic about test automation and performance testing, and I have a particular affinity for tools like [Locust](https://locust.io/) and [Playwright](https://playwright.dev/python/)
 
 <!--
 **p-igor89/p-igor89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

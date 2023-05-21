@@ -5,7 +5,7 @@
 - 📈 Performance Test Engineer 
 - 🐞 QA Engineer
 
-My [Linkedin](https://www.linkedin.com/in/igorperetyatko/) can tell more about me 
+My [Linkedin](https://www.linkedin.com/in/ihor-peretiatko/) can tell more about me 
 
 I am enthusiastic about test automation and performance testing, and I have a particular affinity for tools like [Locust](https://locust.io/) and [Playwright](https://playwright.dev/python/)
 

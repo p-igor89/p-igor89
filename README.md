@@ -24,13 +24,15 @@ and [Playwright](https://playwright.dev/python/)
   <code><img width="5%" title="Selene" src="img/selene.png"></code>
   <code><img width="5%" title="Selenium" src="img/selenium.png"></code>
   <code><img width="5%" title="Requests" src="img/requests.png"></code>
-  <code><img width="5%" title="GitHub" src="img/github.png"></code>
   <code><img width="5%" title="Jenkins" src="img/jenkins.png"></code>
   <code><img width="5%" title="Docker" src="img/docker.png"></code>
+  <code><img width="5%" title="Playwright" src="img/playwright.png"></code>
+  <code><img width="5%" title="Cypress" src="img/cypress.png"></code>
   <code><img width="5%" title="Selenoid" src="img/selenoid.png"></code>
   <code><img width="5%" title="Allure Report" src="img/allure_report.png"></code>
   <code><img width="5%" title="Allure TestOps" src="img/allure_testops.png"></code>
   <code><img width="5%" title="Appium" src="img/appium.png"></code>
+  <code><img width="5%" title="GitHub" src="img/github.png"></code>
   <code><img width="5%" title="Browserstack" src="img/browserstack.png"></code>
   <code><img width="5%" title="Jira" src="img/jira.png"></code>
   <code><img width="5%" title="Confluence" src="img/confluence.png"></code>

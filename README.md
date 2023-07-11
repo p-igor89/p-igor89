@@ -15,7 +15,7 @@ and [Playwright](https://playwright.dev/python/)
 
 
 <!--Stack and tools-->
-##  ⚡ Stack and tools
+##  🛠 Languages, Tools, Skills and Expertises
 
 <p  align="center">
   <code><img width="5%" title="Pycharm" src="img/pycharm.png"></code>
@@ -45,9 +45,7 @@ and [Playwright](https://playwright.dev/python/)
 
 <!--Git Stats-->
 
-&#8287;&#8287;&#8287;&#8287;&#8287;
-
-## 📫 Public activity in gitHub
+## <img width="20" src="img/stats.webp">  Public activity on gitHub
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=p-igor89&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=p-igor89&theme=tokyonight)
 <!--

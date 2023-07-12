@@ -15,13 +15,15 @@ and [Playwright](https://playwright.dev/python/)
 
 
 <!--Stack and tools-->
-##  🛠 Languages, Tools, Skills and Expertises
+
+## 🛠 Languages, Tools, Skills and Expertises
 
 <p  align="center">
   <code><img width="5%" title="Pycharm" src="img/pycharm.png"></code>
   <code><img width="5%" title="Python" src="img/python.png"></code>
   <code><img width="5%" title="Pytest" src="img/pytest.png"></code>
   <code><img width="5%" title="Selene" src="img/selene.png"></code>
+  <code><img width="5%" title="Locust" src="img/locust.png"></code>
   <code><img width="5%" title="Selenium" src="img/selenium.png"></code>
   <code><img width="5%" title="Requests" src="img/requests.png"></code>
   <code><img width="5%" title="Jenkins" src="img/jenkins.png"></code>
@@ -33,7 +35,9 @@ and [Playwright](https://playwright.dev/python/)
   <code><img width="5%" title="Allure TestOps" src="img/allure_testops.png"></code>
   <code><img width="5%" title="Appium" src="img/appium.png"></code>
   <code><img width="5%" title="GitHub" src="img/github.png"></code>
+  <code><img width="5%" title="Bitbucket" src="img/bitbucket.png"></code>
   <code><img width="5%" title="Browserstack" src="img/browserstack.png"></code>
+  <code><img width="5%" title="Protractor" src="img/protractor.png"></code>
   <code><img width="5%" title="Jira" src="img/jira.png"></code>
   <code><img width="5%" title="Confluence" src="img/confluence.png"></code>
   <code><img width="5%" title="Postman" src="img/postman.png"></code>
@@ -41,13 +45,14 @@ and [Playwright](https://playwright.dev/python/)
   <code><img width="5%" title="Slack" src="img/slack.png"></code>
   <code><img width="5%" title="PgAdmin" src="img/pgadmin.png"></code>
 </p>
-  
+
 
 <!--Git Stats-->
 
 ## <img width="20" src="img/stats.webp">  Public activity on gitHub
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=p-igor89&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=p-igor89&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=p-igor89&theme=transparent)
+
 <!--
 **p-igor89/p-igor89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

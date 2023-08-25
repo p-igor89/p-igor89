@@ -5,7 +5,7 @@
 - 🤖 Test Automation Engineer
 - 📈 Performance Test Engineer
 - 🐞 QA Engineer
-- 🔭 <a target="_blank" href="cv/cv_2023_v2.2_aqa_ihor_peretiatko.png">My CV is here</a>
+- 🔭 <a target="_blank" href="cv/cv_2023_aqa_ihor_peretiatko.png">My CV is here</a>
 
 My [Linkedin](https://www.linkedin.com/in/ihor-peretiatko/) can tell more about me
 

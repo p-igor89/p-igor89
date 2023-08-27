@@ -53,6 +53,12 @@ and [Playwright](https://playwright.dev/python/)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=p-igor89&theme=transparent)
 
+<table width="100%" border='0'>
+   <tr> 
+    <tr><td width="30%" valign="bottom"><img src="img/qa-guru80.png"></td><td valign="middle">School of Test Automation Engineers <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
+   </tr>
+</table>
+
 <!--
 **p-igor89/p-igor89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

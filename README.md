@@ -5,7 +5,7 @@
 - 🤖 Test Automation Engineer
 - 📈 Performance Test Engineer
 - 🐞 QA Engineer
-- 🔭 <a target="_blank" href="cv/cv_aqa_ihor_peretiatko.png">My CV is here</a>
+- 🔭 <a target="_blank" href="cv/cv_aqa_perf_ihor_peretiatko.pdf">My CV is here</a>
 
 My [Linkedin](https://www.linkedin.com/in/ihor-peretiatko/) can tell more about me
 
@@ -44,6 +44,14 @@ and [Playwright](https://playwright.dev/python/)
   <code><img width="5%" title="Telegram" src="img/tg.png"></code>
   <code><img width="5%" title="Slack" src="img/slack.png"></code>
   <code><img width="5%" title="PgAdmin" src="img/pgadmin.png"></code>
+  <code><img width="5%" title="Photoshop" src="img/adobe-photoshop.png"></code>
+  <code><img width="5%" title="Figma" src="img/figma.png"></code>
+  <code><img width="5%" title="Grafana" src="img/grafana.png"></code>
+  <code><img width="5%" title="Linux" src="img/linux.png"></code>
+  <code><img width="5%" title="Swagger" src="img/swagger.png"></code>
+  <code><img width="5%" title="Trello" src="img/trello.png"></code>
+  <code><img width="5%" title="Zephyr" src="img/zs.png"></code>
+
 </p>
 
 

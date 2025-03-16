@@ -51,15 +51,7 @@ and [Playwright](https://playwright.dev/python/)
   <code><img width="5%" title="Swagger" src="img/swagger.png"></code>
   <code><img width="5%" title="Trello" src="img/trello.png"></code>
   <code><img width="5%" title="Zephyr" src="img/zs.png"></code>
-
 </p>
-
-
-<!--Git Stats-->
-
-## <img width="20" src="img/stats.webp">  Public activity on gitHub
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=p-igor89&theme=transparent)
 
 <table width="100%" border='0'>
    <tr> 

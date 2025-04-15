@@ -1,20 +1,19 @@
 ### Hi there 👋 I'm Ihor
+-----------------
+- 🤖 Software Development Engineer in Test (SDET)  
+- 🚀 Release Manager
+- 📈 Performance Engineer  
+-----------------
+- 📄 <a target="_blank" href="cv/cv_aqa_perf_ihor_peretiatko.pdf">Download my 2023 CV</a>  
+-----------------
+* 🌍 I'm based in New York  
+* 📬 You can contact me at [Email](mailto:p_ihor@hotmail.com)  
+* 🧠 I'm learning how to effectively integrate AI into real-world projects
+-----------------
+Passionate about building reliable systems and testing them to the limit. I focus on automation and performance, aiming to bring clarity, speed, and confidence to every release. Whether it’s streamlining test strategies, improving infrastructure, or digging into bottlenecks, I enjoy solving challenges that make teams move faster and deliver better.
 
-- 🤖 Test Automation Engineer
-- 📈 Performance Test Engineer
-- 🐞 QA Engineer
-- 🔭 <a target="_blank" href="cv/cv_aqa_perf_ihor_peretiatko.pdf">My CV is here</a>
-
-My [Linkedin](https://www.linkedin.com/in/ihor-peretiatko/) can tell more about me
-
-I am enthusiastic about test automation and performance testing, and I have a particular affinity for tools
-like [Selene](https://github.com/yashaka/selene/), [Locust](https://locust.io/)
-and [Playwright](https://playwright.dev/python/)
-
-
-<!--Stack and tools-->
-
-## 🛠 Languages, Tools, Skills and Expertises
+-----------------
+### 🛠 Languages, Tools, Skills and Expertises
 
 <p  align="center">
   <code><img width="3%" title="Pycharm" src="img/pycharm.png"></code>
@@ -51,19 +50,29 @@ and [Playwright](https://playwright.dev/python/)
   <code><img width="3%" title="Zephyr" src="img/zs.png"></code>
 </p>
 
-<table width="100%" border='0'>
-   <tr> 
-    <tr>
-        <td width="30%" valign="bottom">
-            <img src="img/qa-guru80.png">
-        </td>
-        <td valign="middle">
-            School of Test Automation Engineers 
-            <a target="_blank" href="https://qa.guru" rel="noopener noreferrer">qa.guru</a>.
-        </td>
-    </tr>
-   </tr>
-</table>
+### Socials
+
+<p align="left">
+
+  <!-- GitHub -->
+  <a href="https://github.com/p-igor89" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+    </picture>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/ihor-peretiatko/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+    </picture>
+  </a>
+
+</p>
 
 ### Support Me
 

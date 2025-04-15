@@ -10,7 +10,7 @@
 * 📬 You can contact me at [Email](mailto:p_ihor@hotmail.com)  
 * 🧠 I'm learning how to effectively integrate AI into real-world projects
 -----------------
-Passionate about building reliable systems and testing them to the limit. I focus on automation and performance, aiming to bring clarity, speed, and confidence to every release. Whether it’s streamlining test strategies, improving infrastructure, or digging into bottlenecks, I enjoy solving challenges that make teams move faster and deliver better.
+Passionate about building reliable systems and testing them to the limit. I focus on automation and performance, aiming to bring clarity, speed, and confidence to every release. Whether it’s streamlining strategies, improving infrastructure, or digging into bottlenecks, I enjoy solving challenges that make teams move faster and deliver better.
 
 -----------------
 <h3>💻 Core Tech & Automation Skills</h3>

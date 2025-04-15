@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## I'm Ihor Peretiatko
+### Hi there 👋 I'm Ihor
 
 - 🤖 Test Automation Engineer
 - 📈 Performance Test Engineer

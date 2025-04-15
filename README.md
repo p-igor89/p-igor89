@@ -34,6 +34,8 @@ Passionate about building reliable systems and testing them to the limit. I focu
 <p align="left">
   <code><img width="3%" title="Docker" src="img/docker.png"></code>
   <code><img width="3%" title="Jenkins" src="img/jenkins.png"></code>
+  <code><img width="3%" title="AWS" src="img/aws.svg"></code>
+  <code><img width="3%" title="TestomatIO" src="img/testomat.png"></code>
   <code><img width="3%" title="Allure Report" src="img/allure_report.png"></code>
   <code><img width="3%" title="Allure TestOps" src="img/allure_testops.png"></code>
   <code><img width="3%" title="Grafana" src="img/grafana.png"></code>
@@ -44,15 +46,14 @@ Passionate about building reliable systems and testing them to the limit. I focu
 
 <h3>🧩 Project Tools & Utilities</h3>
 <p align="left">
-  <code><img width="3%" title="GitHub" src="img/github.png"></code>
   <code><img width="3%" title="Bitbucket" src="img/bitbucket.png"></code>
   <code><img width="3%" title="Jira" src="img/jira.png"></code>
   <code><img width="3%" title="Confluence" src="img/confluence.png"></code>
+  <code><img width="3%" title="Notion" src="img/notion.svg"></code>
   <code><img width="3%" title="Trello" src="img/trello.png"></code>
   <code><img width="3%" title="Zephyr" src="img/zs.png"></code>
   <code><img width="3%" title="Linux" src="img/linux.png"></code>
-  <code><img width="3%" title="MacOS" src="img/mac.png"></code>
-  <code><img width="3%" title="Figma" src="img/figma.png"></code>
+  <code><img width="3%" title="Figma" src="img/figma.svg"></code>
   <code><img width="3%" title="Selenoid" src="img/selenoid.png"></code>
   <code><img width="3%" title="Browserstack" src="img/browserstack.png"></code>
 </p>

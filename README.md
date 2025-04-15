@@ -25,6 +25,8 @@ Passionate about building reliable systems and testing them to the limit. I focu
   <code><img width="3%" title="Locust" src="img/locust.png"></code>
   <code><img width="3%" title="Selene" src="img/selene.png"></code>
   <code><img width="3%" title="Postman" src="img/postman.png"></code>
+  <code><img width="3%" title="HTML" src="img/html_icon.svg"></code>
+  <code><img width="3%" title="CSS" src="img/css_icon.svg"></code>
 </p>
 
 <h3>🧰 DevOps, CI/CD & Infrastructure</h3>

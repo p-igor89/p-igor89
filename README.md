@@ -65,6 +65,12 @@ and [Playwright](https://playwright.dev/python/)
    </tr>
 </table>
 
+### Support Me
+
+<a href="https://buymeacoffee.com/p_ihor"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+
+
+
 <!--
 **p-igor89/p-igor89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

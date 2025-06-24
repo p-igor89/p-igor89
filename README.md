@@ -6,7 +6,7 @@
 -----------------
 - 📄 <a target="_blank" href="cv/cv_aqa_perf_ihor_peretiatko.pdf">Download my 2023 CV</a>  
 -----------------
-* 🌍 I'm based in New York  
+* 🌍 I'm based in Utah  
 * 📬 You can contact me at [Email](mailto:p_ihor@hotmail.com)  
 * 🧠 I'm learning how to effectively integrate AI into real-world projects
 -----------------

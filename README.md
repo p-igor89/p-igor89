@@ -1,6 +1,6 @@
 ### Hey, I'm Ihor
 
-**SDET • Performance • Release Quality • Automation Architect**
+**SDET • Performance Engineer • Release Manager • Automation Architect**
 
 -----------------
 

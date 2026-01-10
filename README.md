@@ -1,14 +1,20 @@
-### Hi there 👋 I'm Ihor
+### Hey, I'm Ihor
+
+**SDET • Performance • Release Quality • Automation Architect**
+
 -----------------
-- 🤖 Software Development Engineer in Test (SDET)  
-- 🚀 Release Manager
-- 📈 Performance Engineer  
+
+📍 **Draper, Utah** - 5 min walk from Point of the Mountain Flight Park
+
 -----------------
-- 📄 <a target="_blank" href="cv/cv_aqa_perf_ihor_peretiatko.pdf">Download my 2023 CV</a>  
+
+**Actively building:**
+- Test automation powered by AI (smart failure analysis, self-healing tests)
+- Automation workflows with n8n (eliminating repetitive tasks, streamlining processes)
+- Performance testing frameworks that actually scale
+
 -----------------
-* 🌍 I'm based in Utah  
-* 📬 You can contact me at [Email](mailto:p_ihor@hotmail.com)  
-* 🧠 I'm learning how to effectively integrate AI into real-world projects
+* 📬 You can contact me at [Email](mailto:p_ihor@hotmail.com) or  [LinkedIn](https://linkedin.com/in/ihor-peretiatko)
 -----------------
 Passionate about building reliable systems and testing them to the limit. I focus on automation and performance, aiming to bring clarity, speed, and confidence to every release. Whether it’s streamlining strategies, improving infrastructure, or digging into bottlenecks, I enjoy solving challenges that make teams move faster and deliver better.
 

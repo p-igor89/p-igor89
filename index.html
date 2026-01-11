@@ -133,6 +133,25 @@
             margin-bottom: 15px;
         }
 
+        .tech-icons {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin-bottom: 25px;
+            align-items: center;
+        }
+
+        .tech-icons img {
+            width: 40px;
+            height: 40px;
+            transition: transform 0.2s;
+            filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.1));
+        }
+
+        .tech-icons img:hover {
+            transform: scale(1.1);
+        }
+
         .badge {
             display: inline-block;
             padding: 8px 14px;
@@ -182,9 +201,32 @@
         .connect-section {
             display: flex;
             justify-content: center;
-            gap: 20px;
+            gap: 25px;
             flex-wrap: wrap;
             margin: 30px 0;
+        }
+
+        .connect-section a {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            transition: transform 0.2s, box-shadow 0.2s;
+            text-decoration: none;
+        }
+
+        .connect-section a:hover {
+            transform: scale(1.1);
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+        }
+
+        .connect-section img {
+            width: 24px;
+            height: 24px;
+            filter: brightness(0) invert(1);
         }
 
         .social-btn {
@@ -312,87 +354,65 @@
 
             <!-- Tech Stack -->
             <section>
-                <h2>Tech Stack</h2>
+                <h2>Favorite Languages</h2>
+                <div class="tech-icons">
+                    <img src="img/python.png" title="Python" alt="Python">
+                    <img src="https://cdn.simpleicons.org/typescript/3178C6" title="TypeScript" alt="TypeScript">
+                </div>
 
-                <div class="tech-stack">
-                    <div class="tech-category">
-                        <div class="tech-category-title">Languages & Frameworks</div>
-                        <div class="badges">
-                            <span class="badge">Python</span>
-                            <span class="badge">TypeScript</span>
-                            <span class="badge">HTML5</span>
-                            <span class="badge">CSS3</span>
-                        </div>
-                    </div>
+                <h2>Testing & Automation</h2>
+                <div class="tech-icons">
+                    <img src="img/playwright.png" title="Playwright" alt="Playwright">
+                    <img src="img/pytest.png" title="Pytest" alt="Pytest">
+                    <img src="img/locust.png" title="Locust" alt="Locust">
+                    <img src="img/postman.png" title="Postman" alt="Postman">
+                    <img src="img/requests.png" title="Requests" alt="Requests">
+                    <img src="img/swagger.png" title="Swagger" alt="Swagger">
+                </div>
 
-                    <div class="tech-category">
-                        <div class="tech-category-title">Testing & Automation</div>
-                        <div class="badges">
-                            <span class="badge">Playwright</span>
-                            <span class="badge">Pytest</span>
-                            <span class="badge">Locust</span>
-                            <span class="badge">Postman</span>
-                            <span class="badge">Requests</span>
-                            <span class="badge">Swagger</span>
-                        </div>
-                    </div>
+                <h2>AI Tools</h2>
+                <div class="tech-icons">
+                    <img src="https://cdn.simpleicons.org/anthropic/191919" title="Claude Code" alt="Claude Code">
+                    <img src="https://cdn.simpleicons.org/githubcopilot/000000" title="GitHub Copilot" alt="GitHub Copilot">
+                    <img src="https://cdn.simpleicons.org/openai/412991" title="ChatGPT" alt="ChatGPT">
+                    <img src="https://cdn.simpleicons.org/warp/01A4FF" title="Warp" alt="Warp">
+                    <img src="https://cdn.simpleicons.org/n8n/EA4B71" title="n8n" alt="n8n">
+                    <img src="https://cdn.simpleicons.org/make/6D00CC" title="Make" alt="Make">
+                </div>
 
-                    <div class="tech-category">
-                        <div class="tech-category-title">AI & Automation Tools</div>
-                        <div class="badges">
-                            <span class="badge">Claude Code</span>
-                            <span class="badge">GitHub Copilot</span>
-                            <span class="badge">ChatGPT</span>
-                            <span class="badge">n8n</span>
-                            <span class="badge">Make</span>
-                        </div>
-                    </div>
+                <h2>DevOps, CI/CD & Monitoring</h2>
+                <div class="tech-icons">
+                    <img src="https://cdn.simpleicons.org/githubactions/2088FF" title="GitHub Actions" alt="GitHub Actions">
+                    <img src="img/aws.svg" title="AWS" alt="AWS">
+                    <img src="https://cdn.simpleicons.org/sentry/362D59" title="Sentry" alt="Sentry">
+                    <img src="img/grafana.png" title="Grafana" alt="Grafana">
+                    <img src="https://cdn.simpleicons.org/prometheus/E6522C" title="Prometheus" alt="Prometheus">
+                    <img src="https://cdn.simpleicons.org/newrelic/008C99" title="New Relic" alt="New Relic">
+                    <img src="img/allure_report.png" title="Allure Report" alt="Allure Report">
+                    <img src="img/testomat.png" title="TestomatIO" alt="TestomatIO">
+                </div>
 
-                    <div class="tech-category">
-                        <div class="tech-category-title">DevOps & CI/CD</div>
-                        <div class="badges">
-                            <span class="badge">GitHub Actions</span>
-                            <span class="badge">Docker</span>
-                            <span class="badge">AWS</span>
-                            <span class="badge">Jenkins</span>
-                        </div>
-                    </div>
+                <h2>Tools & Collaboration</h2>
+                <div class="tech-icons">
+                    <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" title="VS Code" alt="VS Code">
+                    <img src="img/notion.svg" title="Notion" alt="Notion">
+                    <img src="img/jira.png" title="Jira" alt="Jira">
+                    <img src="img/confluence.png" title="Confluence" alt="Confluence">
+                    <img src="img/figma.svg" title="Figma" alt="Figma">
+                    <img src="img/linux.png" title="Linux" alt="Linux">
+                </div>
 
-                    <div class="tech-category">
-                        <div class="tech-category-title">Observability & Monitoring</div>
-                        <div class="badges">
-                            <span class="badge">Sentry</span>
-                            <span class="badge">Grafana</span>
-                            <span class="badge">Prometheus</span>
-                            <span class="badge">New Relic</span>
-                            <span class="badge">Allure Report</span>
-                            <span class="badge">TestomatIO</span>
-                        </div>
-                    </div>
-
-                    <div class="tech-category">
-                        <div class="tech-category-title">Tools & Collaboration</div>
-                        <div class="badges">
-                            <span class="badge">VS Code</span>
-                            <span class="badge">Jira</span>
-                            <span class="badge">Confluence</span>
-                            <span class="badge">Notion</span>
-                            <span class="badge">Figma</span>
-                            <span class="badge">Linux</span>
-                        </div>
-                    </div>
-
-                    <div class="tech-category">
-                        <div class="tech-category-title">Also Experienced With (Legacy)</div>
-                        <div class="badges">
-                            <span class="badge">Selenium</span>
-                            <span class="badge">Selenoid</span>
-                            <span class="badge">BrowserStack</span>
-                            <span class="badge">WebStorm</span>
-                            <span class="badge">PyCharm</span>
-                            <span class="badge">IntelliJ IDEA</span>
-                        </div>
-                    </div>
+                <h2>Also Experienced With (Legacy)</h2>
+                <div class="tech-icons">
+                    <img src="img/docker.png" title="Docker" alt="Docker">
+                    <img src="img/jenkins.png" title="Jenkins" alt="Jenkins">
+                    <img src="img/selenium.png" title="Selenium" alt="Selenium">
+                    <img src="img/selenoid.png" title="Selenoid" alt="Selenoid">
+                    <img src="img/browserstack.png" title="BrowserStack" alt="BrowserStack">
+                    <img src="https://cdn.simpleicons.org/webstorm/000000" title="WebStorm" alt="WebStorm">
+                    <img src="img/pycharm.png" title="PyCharm" alt="PyCharm">
+                    <img src="https://cdn.simpleicons.org/intellijidea/000000" title="IntelliJ IDEA" alt="IntelliJ IDEA">
+                    <img src="https://cdn.simpleicons.org/datagrip/000000" title="DataGrip" alt="DataGrip">
                 </div>
             </section>
 
@@ -426,18 +446,22 @@
             <!-- Connect Section -->
             <section>
                 <h2>Connect</h2>
-                <div class="connect-section">
-                    <a href="mailto:p_ihor@hotmail.com" class="social-btn">
-                        ✉️ Email
+                <div class="connect-section" style="justify-content: center;">
+                    <a href="https://linkedin.com/in/ihor-peretiatko" target="_blank" rel="noreferrer" title="LinkedIn">
+                        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn">
                     </a>
-                    <a href="https://linkedin.com/in/ihor-peretiatko" target="_blank" class="social-btn">
-                        💼 LinkedIn
+                    <a href="https://t.me/p_ihor89" target="_blank" rel="noreferrer" title="Telegram">
+                        <picture>
+                            <source media="(prefers-color-scheme: dark)" srcset="img/tg_white.svg">
+                            <source media="(prefers-color-scheme: light)" srcset="img/tg_black.svg">
+                            <img src="img/tg_white.svg" width="32" height="32" alt="Telegram">
+                        </picture>
                     </a>
-                    <a href="https://t.me/p_ihor89" target="_blank" class="social-btn">
-                        💬 Telegram
+                    <a href="mailto:p_ihor@hotmail.com" rel="noreferrer" title="Email">
+                        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="Email">
                     </a>
-                    <a href="https://github.com/p-igor89" target="_blank" class="social-btn">
-                        🔗 GitHub
+                    <a href="https://github.com/p-igor89" target="_blank" rel="noreferrer" title="GitHub">
+                        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub">
                     </a>
                 </div>
             </section>

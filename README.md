@@ -215,24 +215,39 @@ Passionate about building reliable systems and testing them to the limit. I focu
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     ВАРИАНТ: FEATURED PROJECTS (ручной список)
-     Раскомментируй если хочешь добавить
+     ВАРИАНТ A: FEATURED PROJECTS (описание без ссылок - для приватных проектов)
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+### Featured Projects
+
+**Performance Testing Framework** — Locust-based load testing with Grafana dashboards and real-time metrics
+
+**E2E Automation Suite** — Playwright + TypeScript framework with AI-powered failure analysis
+
+**CI/CD Pipelines** — GitHub Actions workflows for test automation and deployment
+
+**n8n Automation Workflows** — Custom integrations for QA processes and notifications
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     ВАРИАНТ B: FEATURED PROJECTS (с эмодзи - более душевный)
+     Раскомментируй для сравнения
      ═══════════════════════════════════════════════════════════════════════════
 
 ### Featured Projects
 
 🔬 **Performance Testing Framework** — Locust-based load testing with Grafana dashboards
-🎭 **Playwright E2E Suite** — Scalable test automation with AI-powered failure analysis
-🤖 **n8n Workflows** — Automation recipes for QA processes
+
+🎭 **E2E Automation Suite** — Playwright + TypeScript with AI-powered failure analysis
+
+⚡ **CI/CD Pipelines** — GitHub Actions for test automation and deployment
+
+🤖 **n8n Workflows** — Custom automation recipes for QA processes
 
      ═══════════════════════════════════════════════════════════════════════════ -->
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     ВАРИАНТ: FEATURED PROJECTS (карточки GitHub)
-     Раскомментируй и замени username/repo на свои
+     ВАРИАНТ: FEATURED PROJECTS (карточки GitHub) - только для публичных репо
      ═══════════════════════════════════════════════════════════════════════════
-
-### Featured Projects
 
 <a href="https://github.com/p-igor89/YOUR-REPO-NAME">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=p-igor89&repo=YOUR-REPO-NAME&theme=dark" />
@@ -240,12 +255,16 @@ Passionate about building reliable systems and testing them to the limit. I focu
 
      ═══════════════════════════════════════════════════════════════════════════ -->
 
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     ВАРИАНТ: TOP LANGUAGES
-     Раскомментируй если хочешь добавить
-     ═══════════════════════════════════════════════════════════════════════════
+---
 
-### Languages
+### Top Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     ВАРИАНТ: TOP LANGUAGES (автоматическая статистика - работает только для публичных репо)
+     ═══════════════════════════════════════════════════════════════════════════
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-igor89&layout=compact&theme=dark)
 

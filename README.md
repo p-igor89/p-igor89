@@ -121,8 +121,7 @@ I focus on automation and performance, bringing clarity and confidence to every 
   </a>
   <a href="mailto:p_ihor@hotmail.com" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/email-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/email.svg" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/minutemailer/white" />
       <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" />
     </picture>
   </a>

@@ -43,7 +43,7 @@ I focus on automation and performance, bringing clarity and confidence to every 
 
 <p align="left">
   <code><img width="3%" title="Claude Code" src="https://cdn.simpleicons.org/anthropic/01A4FF"></code>
-  <code><img width="3%" title="GitHub Copilot" src="https://cdn.simpleicons.org/githubcopilot/000000"></code>
+  <code><img width="3%" title="GitHub Copilot" src="https://cdn.simpleicons.org/githubcopilot/00B0FF"></code>
   <code><img width="3%" title="ChatGPT" src="https://cdn.simpleicons.org/openai/412991"></code>
   <code><img width="3%" title="Warp" src="https://cdn.simpleicons.org/warp/01A4FF"></code>
   <code><img width="3%" title="n8n" src="https://cdn.simpleicons.org/n8n/EA4B71"></code>

@@ -80,18 +80,6 @@ I focus on automation and performance, bringing clarity and confidence to every 
 
 ---
 
-### Featured Projects
-
-**Performance Testing Framework** — Locust-based load testing with Grafana dashboards and real-time metrics
-
-**E2E Automation Suite** — Playwright + TypeScript framework with AI-powered failure analysis
-
-**CI/CD Pipelines** — GitHub Actions workflows for test automation and deployment
-
-**n8n Automation Workflows** — Custom integrations for QA processes and notifications
-
----
-
 ### Connect
 
 <p align="left">

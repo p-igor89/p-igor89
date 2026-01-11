@@ -42,7 +42,7 @@ I focus on automation and performance, bringing clarity and confidence to every 
 <h3>AI Tools</h3>
 
 <p align="left">
-  <code><img width="3%" title="Claude Code" src="https://cdn.simpleicons.org/anthropic/191919"></code>
+  <code><img width="3%" title="Claude Code" src="https://cdn.simpleicons.org/anthropic/01A4FF"></code>
   <code><img width="3%" title="GitHub Copilot" src="https://cdn.simpleicons.org/githubcopilot/000000"></code>
   <code><img width="3%" title="ChatGPT" src="https://cdn.simpleicons.org/openai/412991"></code>
   <code><img width="3%" title="Warp" src="https://cdn.simpleicons.org/warp/01A4FF"></code>
@@ -66,7 +66,6 @@ I focus on automation and performance, bringing clarity and confidence to every 
 <h3>Tools & Collaboration</h3>
 
 <p align="left">
-  <code><img width="3%" title="VS Code" src="https://cdn.simpleicons.org/visualstudiocode/007ACC"></code>
   <code><img width="3%" title="Notion" src="img/notion.svg"></code>
   <code><img width="3%" title="Jira" src="img/jira.png"></code>
   <code><img width="3%" title="Confluence" src="img/confluence.png"></code>

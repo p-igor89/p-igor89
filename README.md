@@ -63,16 +63,6 @@ I focus on automation and performance, bringing clarity and confidence to every 
   <code><img width="3%" title="TestomatIO" src="img/testomat.png"></code>
 </p>
 
-<h3>Tools & Collaboration</h3>
-
-<p align="left">
-  <code><img width="3%" title="Notion" src="img/notion.svg"></code>
-  <code><img width="3%" title="Jira" src="img/jira.png"></code>
-  <code><img width="3%" title="Confluence" src="img/confluence.png"></code>
-  <code><img width="3%" title="Figma" src="img/figma.svg"></code>
-  <code><img width="3%" title="Linux" src="img/linux.png"></code>
-</p>
-
 <h3>Also Experienced With (Legacy)</h3>
 
 <p align="left">

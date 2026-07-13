@@ -1,23 +1,13 @@
-### Hey, I'm Ihor
+### Hey, I'm Ihor Peretiatko
 
-**SDET • Performance Engineer • Release Manager • Automation Architect**
+**SDET • Performance Engineer • AI agents • Automation Architect • Release Engineering**
 
-Building reliable systems and breaking them on purpose. Based in Draper, Utah, 5 min walk from Point of the Mountain Flight Park.
+I build AI agents on Claude that do real engineering work: they document tickets,
+write and heal Playwright tests, triage CI failures, and assemble release reports.
+My other hat is the release train itself: regression gates, deploy verification,
+production smoke, notes generated from commit history.
 
-I focus on automation and performance, bringing clarity and confidence to every release. Whether it's hunting bottlenecks, streamlining CI/CD, or making tests smarter with AI, I enjoy challenges that help teams ship faster.
-
----
-
-### Currently Building
-
-- Test automation powered by AI (smart failure analysis, self-healing tests)
-- Automation workflows with n8n and Make (eliminating repetitive tasks)
-- Performance testing frameworks that actually scale
-
-### Currently Learning
-
-- AI Agents for test automation
-- Advanced observability patterns
+Based in Draper, Utah, a 5 minute walk from Point of the Mountain Flight Park.
 
 ---
 
@@ -44,10 +34,8 @@ I focus on automation and performance, bringing clarity and confidence to every 
 <p align="left">
   <code><img width="3%" title="Claude Code" src="https://cdn.simpleicons.org/anthropic/01A4FF"></code>
   <code><img width="3%" title="GitHub Copilot" src="https://cdn.simpleicons.org/githubcopilot/00B0FF"></code>
-  <code><img width="3%" title="ChatGPT" src="https://cdn.simpleicons.org/openai/412991"></code>
   <code><img width="3%" title="Warp" src="https://cdn.simpleicons.org/warp/01A4FF"></code>
   <code><img width="3%" title="n8n" src="https://cdn.simpleicons.org/n8n/EA4B71"></code>
-  <code><img width="3%" title="Make" src="https://cdn.simpleicons.org/make/6D00CC"></code>
 </p>
 
 <h3>DevOps, CI/CD & Monitoring</h3>
@@ -66,17 +54,13 @@ I focus on automation and performance, bringing clarity and confidence to every 
 <h3>Also Experienced With (Legacy)</h3>
 
 <p align="left">
+  <code><img width="3%" title="PostgreSQL" src="https://cdn.simpleicons.org/postgresql/4169E1"></code>
   <code><img width="3%" title="Docker" src="img/docker.png"></code>
   <code><img width="3%" title="Jenkins" src="img/jenkins.png"></code>
   <code><img width="3%" title="Selenium" src="img/selenium.png"></code>
   <code><img width="3%" title="Selenoid" src="img/selenoid.png"></code>
   <code><img width="3%" title="BrowserStack" src="img/browserstack.png"></code>
-  <code><img width="3%" title="WebStorm" src="https://cdn.simpleicons.org/webstorm/000000"></code>
-  <code><img width="3%" title="PyCharm" src="img/pycharm.png"></code>
-  <code><img width="3%" title="IntelliJ IDEA" src="https://cdn.simpleicons.org/intellijidea/000000"></code>
-  <code><img width="3%" title="DataGrip" src="https://cdn.simpleicons.org/datagrip/000000"></code>
 </p>
-
 
 ---
 
@@ -113,7 +97,6 @@ I focus on automation and performance, bringing clarity and confidence to every 
 </p>
 
 ---
-
 ### Support Me
 
 <a href="https://buymeacoffee.com/p_ihor"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>

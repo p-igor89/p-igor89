@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="img/banner.png" alt="Automate what steals your time. Free yourself for ideas." width="100%" />
+</p>
+
 ### Hey, I'm Ihor Peretiatko
 
 **SDET • Performance Engineer • AI agents • Automation Architect • Release Engineering**

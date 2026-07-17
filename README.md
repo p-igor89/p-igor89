@@ -1,6 +1,13 @@
-<p align="center">
-  <img src="img/banner.png" alt="Automate what steals your time. Free yourself for ideas." width="100%" />
+<article class="markdown-body entry-content container-lg f5" itemprop="text"><p dir="auto">
+  <a href="https://www.linkedin.com/in/ihor-peretiatko/" rel="nofollow">
+    <themed-picture data-catalyst-inline="true" data-catalyst="" style="visibility: visible;"><picture>
+      <source media="(prefers-color-scheme: dark)" srcset="img/drawing_01.png" data-canonical-src="img/drawing_01.png">
+      <source media="(prefers-color-scheme: light)" srcset="img/drawing_01_white.png" data-canonical-src="img/drawing_01_white.png">
+      <img alt="https://www.linkedin.com/in/ihor-peretiatko/" src="img/drawing_01_white.png" width="1200" data-canonical-src="img/drawing_01_white.png" style="visibility: visible; max-width: 100%;">
+    </picture></themed-picture>
+  </a>
 </p>
+</article>
 
 ### Hey, I'm Ihor Peretiatko
 
